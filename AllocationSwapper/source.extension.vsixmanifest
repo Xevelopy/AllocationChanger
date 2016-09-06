@@ -6,7 +6,7 @@
     <Description xml:space="preserve">AllocationChanger is an extension to change allocations of variables.
 
 For example:
-Control.Propertie = Record.Value; // Select this code and click Edit -&gt; C
+Control.Propertie = Record.Value; // Select this code and swap it!
 </Description>
     <MoreInfo>https://github.com/Xevelopy/AllocationChanger</MoreInfo>
     <License>License.txt</License>
